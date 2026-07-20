@@ -1,5 +1,16 @@
 # 📈 Stock Portfolio Tracker
 
+> A beginner-friendly Python application for managing stock investments, calculating portfolio value, and exporting portfolio data.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-orange)
+
+---
+
+A simple and beginner-friendly **Python Stock Portfolio Tracker** that allows users to manage their stock investments from the command line. This project was built to practice Python fundamentals such as dictionaries, functions, loops, file handling, exception handling, and user input.
+
 A simple and beginner-friendly **Python Stock Portfolio Tracker** that allows users to manage their stock investments from the command line. This project was built to practice Python fundamentals such as dictionaries, functions, loops, file handling, exception handling, and user input.
 
 ---
