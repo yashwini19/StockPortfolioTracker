@@ -48,6 +48,23 @@ A simple and beginner-friendly **Python Stock Portfolio Tracker** that allows us
 - CSV Module
 
 ---
+---
+
+## 💡 Skills Demonstrated
+
+Through this project, I practiced and improved the following skills:
+
+- 🐍 Python Programming
+- 📚 Dictionaries and Data Structures
+- 🔁 Loops and Conditional Statements
+- 🧩 Functions and Modular Programming
+- 📂 File Handling (TXT & CSV)
+- ⚠️ Exception Handling
+- ⌨️ User Input Validation
+- 🎨 Command-Line Interface (CLI)
+- 🌈 Colorama for Terminal Styling
+- 🔧 Git & GitHub Version Control
+---
 
 ## 📂 Project Structure
 
