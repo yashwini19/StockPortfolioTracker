@@ -15,18 +15,29 @@ A simple and beginner-friendly **Python Stock Portfolio Tracker** that allows us
 
 ---
 
-## 📌 Features
+## ✨ Key Features
 
-- ➕ Add stocks to your portfolio
-- 📋 View your complete portfolio
-- 🔍 Search for a stock
-- ✏️ Update stock quantity
-- 🗑️ Delete a stock
-- 📊 View portfolio statistics
-- 💹 Calculate profit or loss
-- 💾 Save portfolio as TXT and CSV files
-- 🎨 Colorful command-line interface using Colorama
-- ⚠️ Handles invalid user input
+- 📈 **Portfolio Management**
+  - Add stocks with quantity
+  - View all stocks in your portfolio
+  - Search stocks instantly
+  - Update stock quantity
+  - Delete stocks from the portfolio
+
+- 💹 **Investment Analysis**
+  - Calculate total investment value
+  - Calculate profit or loss
+  - Display portfolio statistics
+
+- 💾 **Data Management**
+  - Save portfolio to TXT file
+  - Export portfolio to CSV format
+
+- 🎨 **User Experience**
+  - Menu-driven interface
+  - Colorful terminal output using Colorama
+  - Input validation for better reliability
+
 
 ---
 
